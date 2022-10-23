@@ -1,5 +1,5 @@
 bangla_1stPaper = 70
-bangla_2ndPaper = 90
+bangla_2ndPaper = 23
 
 #bangla_1stPaper
 if bangla_1stPaper <= 32 or bangla_2ndPaper <= 32: 
@@ -18,7 +18,9 @@ elif bangla_1stPaper <= 100:
     print("A+")
 
 #bangla_2ndPaper
-if bangla_2ndPaper <=39:
+if bangla_1stPaper <= 32 or bangla_2ndPaper <= 32: 
+    print("F")
+elif bangla_2ndPaper <=39:
     print("D")
 elif bangla_2ndPaper <= 49:
     print("C")
