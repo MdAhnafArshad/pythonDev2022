@@ -21,26 +21,29 @@ P= (25*33)/100
 #higher_math
 higher_math_T = 43
 higher_math_P = 17
-higher_math_total = (higher_math_P+higher_math_T)/2
+higher_math_total = (higher_math_P+higher_math_T)
+h_m_point = higher_math_total/2
 
 
 #biology_07
 biology_T = 57
 biology_P = 20
-biology_total = (biology_T+biology_P)/2
+biology_total = (biology_T+biology_P)
+bi_overall_point = biology_total/2
 
 
 #Physics_08
 Physics_T = 70
 Physics_P = 5
-Physics_total = (Physics_T+Physics_P)/2
+Physics_total = (Physics_T+Physics_P)
+ph_overall_point = Physics_total/2
 
 
 #chemistry_09
 chemistry_T = 70
 chemistry_P = 25
-chemistry_total = (chemistry_T+chemistry_P)/2
-
+chemistry_total = (chemistry_T+chemistry_P)
+ch_overall_point = chemistry_total/2
 
 
 #Religion_10
@@ -137,7 +140,7 @@ elif mathematice <= 79:
     print("Mathematic = A")
 elif mathematice <= 100:
     print("Mathematic = A+")
-
+print("mathematice =", mathematice)
 
 
 #higher_math_06
@@ -158,7 +161,7 @@ else:
         print("Higher_Math = A")
     elif higher_math_total  <= 100:
         print("Higher_Math = A+")
-print("overall_mark =", higher_math_total)
+print("highermath_overall_point =",h_m_point)
 
 #biology_07
 if biology_T < T or biology_P < P: 
@@ -178,7 +181,7 @@ else:
         print("biology_total = A")
     elif biology_total  <= 100:
         print("biology_total = A+")
-print("biology total =", biology_total)
+print("biology_overall_point =", bi_overall_point)
 #Physics_08
 if Physics_T < T or Physics_P < P: 
         print("Physics_total = F")
@@ -198,7 +201,7 @@ else:
     elif Physics_total  <= 100:
         print("Physics_total = A+")
 
-print("physics total =", Physics_total)
+print("physics_overall_point =", ph_overall_point)
 
 #chemistry_09
 if chemistry_T < T or chemistry_P < P: 
@@ -219,7 +222,7 @@ else:
     elif chemistry_total  <= 100:
         print("Chemistry_total = A+")
 
-print("Chemistry_total =", chemistry_total)
+print("Chemistry_overall_point =", ch_overall_point)
 
 #Religion_10
 if Religion <= 32: 
