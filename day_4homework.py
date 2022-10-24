@@ -149,7 +149,7 @@ elif mathematice <= 100:
 
 
 #higher_math_06
-if higher_math_T <= T or higher_math_P <= P: 
+if higher_math_T < T or higher_math_P < P: 
     print("Higher_Math = F")
 else:
     if higher_math_total <= 32: 
@@ -169,7 +169,7 @@ else:
 
 
 #biology_07
-if biology_T <= T or biology_P <= P: 
+if biology_T < T or biology_P < P: 
         print("biology_total = F")
 else:
     if biology_total <= 32: 
@@ -188,7 +188,7 @@ else:
         print("biology_total = A+")
 
 #Physics_08
-if Physics_T <= T or Physics_P <= P: 
+if Physics_T < T or Physics_P < P: 
         print("Physics_total = F")
 else:
     if  Physics_total <= 32: 
@@ -209,7 +209,7 @@ else:
 
 
 #chemistry_09
-if chemistry_T <= T or chemistry_P <= P: 
+if chemistry_T < T or chemistry_P < P: 
         print("Chemistry_total = F")
 else:
     if  chemistry_total <= 32: 
@@ -268,18 +268,21 @@ total_Point = (bangla_1stPaper+bangla_2ndPaper+english_1stPaper+english_2ndPaper
 print("Total_grade : ", total_Point)
 
 #Total_grade
-if total_Point <= 32: 
+if (bangla_1stPaper<=32 or bangla_2ndPaper <= 32 or english_1stPaper <=32 or english_2ndPaper <=32 or mathematice<=32 or higher_math_P <P or higher_math_T < T or biology_T<T or biology_P<P or Physics_T<T or Physics_P <P or chemistry_P <P or chemistry_T<T or Religion<=32 or social_science <=32):
     print("total_grade = F")
-elif total_Point <=39:
-    print("total_grade = D")
-elif total_Point <= 49:
-    print("total_grade = C")
-elif total_Point <= 59:
-    print("total_grade = B")
-elif total_Point <= 69:
-    print("total_grade = A-")
-elif total_Point <= 79:
-    print("total_grade = A")
-elif total_Point <= 100:
-    print("total_grade = A+")
+else :   
+    if total_Point <= 32: 
+        print("total_grade = F")
+    elif total_Point <=39:
+        print("total_grade = D")
+    elif total_Point <= 49:
+        print("total_grade = C")
+    elif total_Point <= 59:
+        print("total_grade = B")
+    elif total_Point <= 69:
+        print("total_grade = A-")
+    elif total_Point <= 79:
+        print("total_grade = A")
+    elif total_Point <= 100:
+        print("total_grade = A+")
 
