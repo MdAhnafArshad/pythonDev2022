@@ -19,35 +19,27 @@ P= (25*33)/100
 
 
 #higher_math
-higher_math_T = (43*33)/100
-higher_math_P = (17*33)/100
-higher_math_number1 = 43
-higher_math_number2 = 17
-higher_math_total = higher_math_number1+higher_math_number2
+higher_math_T = 43
+higher_math_P = 17
+higher_math_total = (higher_math_P+higher_math_T)/2
 
 
 #biology_07
-biology_T = (43*33)/100
-biology_P = (17*33)/100
-biology_number1 = 57
-biology_number2 = 20
-biology_total = biology_number1+biology_number2
+biology_T = 57
+biology_P = 20
+biology_total = (biology_T+biology_P)/2
 
 
 #Physics_08
-Physics_T = (43*33)/100
-Physics_P = (17*33)/100
-Physics_number1 = 70
-Physics_number2 = 5
-Physics_total = Physics_number1+Physics_number2
+Physics_T = 70
+Physics_P = 5
+Physics_total = (Physics_T+Physics_P)/2
 
 
 #chemistry_09
-chemistry_T = (43*33)/100
-chemistry_P = (17*33)/100
-chemistry_number1 = 70
-chemistry_number2 = 25
-chemistry_total = chemistry_number1+chemistry_number2
+chemistry_T = 70
+chemistry_P = 25
+chemistry_total = (chemistry_T+chemistry_P)/2
 
 
 
@@ -166,7 +158,7 @@ else:
         print("Higher_Math = A")
     elif higher_math_total  <= 100:
         print("Higher_Math = A+")
-
+print("overall_mark =", higher_math_total)
 
 #biology_07
 if biology_T < T or biology_P < P: 
@@ -186,7 +178,7 @@ else:
         print("biology_total = A")
     elif biology_total  <= 100:
         print("biology_total = A+")
-
+print("biology total =", biology_total)
 #Physics_08
 if Physics_T < T or Physics_P < P: 
         print("Physics_total = F")
@@ -206,7 +198,7 @@ else:
     elif Physics_total  <= 100:
         print("Physics_total = A+")
 
-
+print("physics total =", Physics_total)
 
 #chemistry_09
 if chemistry_T < T or chemistry_P < P: 
@@ -227,7 +219,7 @@ else:
     elif chemistry_total  <= 100:
         print("Chemistry_total = A+")
 
-
+print("Chemistry_total =", chemistry_total)
 
 #Religion_10
 if Religion <= 32: 
@@ -265,10 +257,10 @@ elif social_science <= 100:
 #total_Point
 total_Point = (bangla_1stPaper+bangla_2ndPaper+english_1stPaper+english_2ndPaper+mathematice+higher_math_total+biology_total+Physics_total+chemistry_total+Religion+social_science)/11
 
-print("Total_grade : ", total_Point)
+print("Your_point : ", total_Point)
 
 #Total_grade
-if (bangla_1stPaper<=32 or bangla_2ndPaper <= 32 or english_1stPaper <=32 or english_2ndPaper <=32 or mathematice<=32 or higher_math_P <P or higher_math_T < T or biology_T<T or biology_P<P or Physics_T<T or Physics_P <P or chemistry_P <P or chemistry_T<T or Religion<=32 or social_science <=32):
+if (bangla_1stPaper<=32 or bangla_2ndPaper <= 32 or english_1stPaper <=32 or english_2ndPaper <=32 or mathematice<=32 or higher_math_P < P or higher_math_T < T or biology_T<T or biology_P<P or Physics_T<T or Physics_P <P or chemistry_P <P or chemistry_T<T or Religion<=32 or social_science <=32):
     print("total_grade = F")
 else :   
     if total_Point <= 32: 
