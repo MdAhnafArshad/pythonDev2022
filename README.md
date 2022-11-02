@@ -17,5 +17,4 @@ Pip Installing Python Packages Web Link: https://ehmatthes.github.io/pcc/chapter
 
 
 What is the getAttribute() method?
-
 Ans: The getAttribute() method is declared in the WebElement interface, and it returns the value of the web element’s attribute as a string. For attributes having boolean values, the getAttribute() method will return either true or null.
