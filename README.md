@@ -1,11 +1,4 @@
 # pythonDev2022
-{
-  "schemaVersion": 1,
-  "label": "hello",
-  "message": "sweet world",
-  "color": "orange"
-}
-
 
 In this repository, I have uploaded all the exercise and project that I have done from European-IT.
 
