@@ -6,16 +6,26 @@ from selenium.webdriver.common.by import By
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
 
-print(driver.get('https://www.amazon.com/Beats-Studio3-Wireless-Over%E2%80%91Ear-Headphones/dp/B085296FLT/'))
+driver.get('https://www.amazon.com/dp/B0B4GC9TJT?ref_=nav_em__k_ods_eink_kke_0_2_3_2')
 
 
 #variable diclearation
-title = driver.find_element(by=By.XPATH, value='//*[@id="title"]')
-current_price = driver.find_element(by=By.XPATH, value='//*[@id="compare"]/table/tbody/tr[2]/td[4]/span/span')
 
-product_data = {
-    'title': title.text,
-    'current_price': current_price.get_attribute('innerHTML')
-}
 
-print(product_data)
+
+
+Title = driver.find_element(by=By.XPATH, value='//*[@id="productTitle"]').text
+img = driver.find_element(by=By.XPATH, value='//*[@id="landingImage"]').get_attribute('src')
+rating = driver.find_element(by=By.XPATH, value='//*[@id="acrPopover"]/span[1]/a/i[1]/span').get_attribute('innerHTMl')
+
+list_of_Data = [Title, img, rating]
+
+
+print(list_of_Data)
+
+
+
+
+
+
+
