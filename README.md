@@ -1,5 +1,5 @@
 # pythonDev2022
-
+https://badgen.net/badge/hello/world/red?icon=twitter
 In this repository, I have uploaded all the exercise and project that I have done from European-IT.
 
 (Day 7:28-10-2022)
