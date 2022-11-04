@@ -1,5 +1,8 @@
 # pythonDev2022
 
+!\[alt text\](path or URL to image)
+
+
 In this repository, I have uploaded all the exercise and project that I have done from European-IT.
 
 (Day 7:28-10-2022)
