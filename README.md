@@ -1,6 +1,6 @@
 # pythonDev2022
 
-[arts](https://img.shields.io/appveyor/build/ahnafarshadMe22/pythonDev2022)
+[badgs](https://img.shields.io/appveyor/build/ahnafarshadMe22/pythonDev2022)
 
 
 In this repository, I have uploaded all the exercise and project that I have done from European-IT.
