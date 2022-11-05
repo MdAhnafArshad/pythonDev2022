@@ -18,7 +18,7 @@ Title = driver.find_element(by=By.XPATH, value='//*[@id="productTitle"]').text
 img = driver.find_element(by=By.XPATH, value='//*[@id="landingImage"]').get_attribute('src')
 rating = driver.find_element(by=By.XPATH, value='//*[@id="acrPopover"]/span[1]/a/i[1]/span').get_attribute('innerHTMl')
 
-list_of_Data = [Title, img, rating]
+list_of_Data = [Title, img, rating] 
 
 
 
