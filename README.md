@@ -2,11 +2,11 @@
 
 [badgs](https://badgen.net/badge/hello/world/red?icon=twitter)
 
-#####Discription
+##### Discription
 <br>
 In this repository, I have uploaded all the exercise and project that I have done from European-IT.
 
-#####(Day 7:28-10-2022)
+##### (Day 7:28-10-2022)
 installing this tool pip, selenium and Web Driver Manager with this commend
 1. sudo apt install python3-pip
 2. check out pip version: pip3 --version
