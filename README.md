@@ -2,10 +2,11 @@
 
 [badgs](https://img.shields.io/appveyor/build/ahnafarshadMe22/pythonDev2022)
 
-
+<h5>Discription<h5>
+<br>
 In this repository, I have uploaded all the exercise and project that I have done from European-IT.
 
-(Day 7:28-10-2022)
+<h5>(Day 7:28-10-2022)<h5>
 installing this tool pip, selenium and Web Driver Manager with this commend
 1. sudo apt install python3-pip
 2. check out pip version: pip3 --version
