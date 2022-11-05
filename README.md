@@ -1,6 +1,6 @@
 # pythonDev2022
 
-[badgs](https://img.shields.io/appveyor/build/ahnafarshadMe22/pythonDev2022)
+[badgs](https://badgen.net/badge/hello/world/red?icon=twitter)
 
 <h5>Discription<h5>
 <br>
