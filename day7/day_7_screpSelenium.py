@@ -21,6 +21,7 @@ rating = driver.find_element(by=By.XPATH, value='//*[@id="acrPopover"]/span[1]/a
 list_of_Data = [Title, img, rating] 
 
 
+# test for list 
 
 a = 'hello world'
 f = 34
@@ -33,3 +34,4 @@ print(list_of_Data)
 
 
 
+quit()
