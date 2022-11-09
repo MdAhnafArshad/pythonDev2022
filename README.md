@@ -22,6 +22,11 @@ https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/?fbclid=IwAR2g
 ###### Pip Installing Python Packages Web Link:
  https://ehmatthes.github.io/pcc/chapter_12/installing_pip.html#:~:text=Installing%20pip%20on%20Linux,-To%20install%20pip&text=After%20the%20program%20runs%2C%20use,sure%20pip%20was%20installed%20correctly.
 
+###### Selenium with python unofficial doc link:
+https://selenium-python.readthedocs.io/
+
+<br>
+<br>
 
 What is the getAttribute() method?
 
