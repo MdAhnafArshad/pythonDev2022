@@ -12,8 +12,7 @@ In this repository, I have uploaded all the exercise and project that I have don
 <hr>
 
 ##### Installing tool
-<h5>Installing this tool down below.</h5>
-
+<p>Installing this tool down below.</p>
 <ul>
  <li>pip 22.3.1</li>
  <li>selenium 4.5.0</li>
@@ -47,9 +46,9 @@ https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/?fbclid=IwAR2g
 https://selenium-python.readthedocs.io/
 
 
-What is the getAttribute() method?
+<p>What is the getAttribute() method?</p>
 
-Ans: The getAttribute() method is declared in the WebElement interface, and it returns the value of the web element’s attribute as a string. For attributes having boolean values, the getAttribute() method will return either true or null.
+<p>Ans: The getAttribute() method is declared in the WebElement interface, and it returns the value of the web element’s attribute as a string. For attributes having boolean values, the getAttribute() method will return either true or null.</p>
 
 
 
