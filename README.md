@@ -3,7 +3,7 @@
 [badgs](https://badgen.net/badge/hello/world/red?icon=twitter)
 
 ##### Discription
-<br>
+<hr>
 In this repository, I have uploaded all the exercise and project that I have done from European-IT.
 
 ##### (Day 7:28-10-2022)
@@ -25,8 +25,6 @@ https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/?fbclid=IwAR2g
 ###### Selenium with python unofficial doc link:
 https://selenium-python.readthedocs.io/
 
-<br>
-<br>
 
 What is the getAttribute() method?
 
