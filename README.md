@@ -35,25 +35,23 @@ In this repository, I have uploaded all the exercise and project that I have don
 
 <hr>
 
-###### Practical XPath for Web Scraping link: 
+###### Some_sources:
+**Practical XPath for Web Scraping link:**
 https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/?fbclid=IwAR2goVl21Vo724XVwZc0uHJrbe_tLMgc0OMilalwEp8XsLMY5SgVrdN46GE
 
 
-###### Pip Installing Python Packages Web Link:
+ **Pip Installing Python Packages Web Link:**
  https://ehmatthes.github.io/pcc/chapter_12/installing_pip.html#:~:text=Installing%20pip%20on%20Linux,-To%20install%20pip&text=After%20the%20program%20runs%2C%20use,sure%20pip%20was%20installed%20correctly.
 
 
-###### Selenium with python unofficial doc link:
+**Selenium with python unofficial doc link:**
 https://selenium-python.readthedocs.io/
 
+**Machine learning with labelimg1.8.6 link below:**
+ https://pypi.org/project/labelImg/
 
 <p>What is the getAttribute() method?</p>
 
 <p>Ans: The getAttribute() method is declared in the WebElement interface, and it returns the value of the web element’s attribute as a string. For attributes having boolean values, the getAttribute() method will return either true or null.</p>
 
 
-
-<hr>
-
-###### Machine learning with labelimg1.8.6 link below:
- https://pypi.org/project/labelImg/
