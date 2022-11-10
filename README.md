@@ -6,13 +6,21 @@
 
 <hr>
 
-##### Discription
+##### Discription:
 In this repository, I have uploaded all the exercise and project that I have done from European-IT.
 
 <hr>
 
-##### (Day 7:28-10-2022)
+##### Installing tool
 installing this tool pip, selenium and Web Driver Manager with this commend
+
+<ul>
+ <li>pip</li>
+ <li>Selenium</li>
+ <li>Web Driver Manager</li>
+ <li>vs code</li>
+</ul>
+
 1. sudo apt install python3-pip
 2. check out pip version: pip3 --version
 3. check out installing packages: pip list
