@@ -22,7 +22,8 @@ In this repository, I have uploaded all the exercise and project that I have don
  <li>labelImg 1.8.6</li>
 </ul>
 
-<p>note: Setup this tool on ubuntu 20.04</p>
+<p>Note: Setup this tool on your terminal ubuntu 20.04</p>
+
 1. sudo apt install python3-pip
 2. check out pip version: pip3 --version
 3. check out installing packages: pip list
