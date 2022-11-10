@@ -12,15 +12,18 @@ In this repository, I have uploaded all the exercise and project that I have don
 <hr>
 
 ##### Installing tool
-installing this tool pip, selenium and Web Driver Manager with this commend
+installing this tool down below.
 
 <ul>
- <li>pip</li>
- <li>Selenium</li>
- <li>Web Driver Manager</li>
- <li>vs code</li>
+ <li>pip 22.3.1</li>
+ <li>selenium 4.5.0</li>
+ <li>webdriver-manager 3.8.4</li>
+ <li>labelImg 1.8.6</li>
+ <li>Visual Studio Code 1.73.1</li>
+ <li>labelImg 1.8.6</li>
 </ul>
 
+<p>note: Setup this tool on ubuntu 20.04</p>
 1. sudo apt install python3-pip
 2. check out pip version: pip3 --version
 3. check out installing packages: pip list
@@ -28,6 +31,7 @@ installing this tool pip, selenium and Web Driver Manager with this commend
 5. for linux user: sudo pip install selenium
 6. or python3: sudo pip3 install selenium
 7. pip3 install --upgrade requests
+8. pip install labelImg
 
 <hr>
 
