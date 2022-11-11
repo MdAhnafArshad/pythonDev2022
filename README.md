@@ -1,4 +1,4 @@
-# Welcome to Python_Dev_2022 👋
+<h1 align="center">Welcome to Python_Dev_2022 👋<h1>
 
 <a href="https://pypi.org/project/readme-coverage-badger" target="_blank">
   <img src="https://img.shields.io/pypi/pyversions/readme-coverage-badger" alt="PyPI - Python Version">
