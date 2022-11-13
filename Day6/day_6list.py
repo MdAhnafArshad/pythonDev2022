@@ -8,8 +8,9 @@ sizeOfList = len(productPrice)
 avg = mean(productPrice)
 
 
-print('List = ', productPrice)
-print(sizeOfList)
+print('List value is: ', productPrice)
+print("list length is:",sizeOfList)
+#use reverse function
 productPrice.reverse()
-print(productPrice)
-print(avg)
+print("Revars the list Number: ",productPrice)
+print("avarage Number:", avg)
