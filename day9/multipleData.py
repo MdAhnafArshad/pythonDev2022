@@ -25,5 +25,5 @@ print(title_list)
 print(img_list)
 
 
-time.sleep(100)
-
+time.sleep(60)
+quit()
