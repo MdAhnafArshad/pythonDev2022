@@ -1,11 +1,9 @@
 
-fruites = ["appule", "banana", "cherry"]
-
 n = 5
 x = 1
 for x in range(n):
-   y = int(input())
+  y = int(input())
   if y%2 ==0:
-   print("even")
- else :
-   print("odd")
+    print("even")
+  else :
+    print("odd")
