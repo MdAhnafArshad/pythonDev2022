@@ -1,10 +1,8 @@
 <h1 align="center">Welcome to Python_Dev_2022 👋<h1>
 
-<a align="center" href="https://pypi.org/project/readme-coverage-badger" target="_blank">
+<a href="https://pypi.org/project/readme-coverage-badger" target="_blank">
   <img src="https://img.shields.io/pypi/pyversions/readme-coverage-badger" alt="PyPI - Python Version">
 </a>
-
-<hr>
 
 ##### Discription:
 In this repository, I have uploaded all the exercise and project that I have done from European-IT.
