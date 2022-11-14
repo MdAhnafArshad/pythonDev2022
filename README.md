@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/pypi/pyversions/readme-coverage-badger" alt="PyPI - Python Version">
 </a>
 
+<br>
+
 ##### Discription:
 In this repository, I have uploaded all the exercise and project that I have done from European-IT.
 
