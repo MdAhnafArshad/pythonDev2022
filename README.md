@@ -11,8 +11,8 @@ In this repository, I have uploaded all the exercise and project that I have don
 
 <hr>
 
-##### Installing tool
-<p>Installing this tool down below.</p>
+##### Installing tools
+<p>Installing this tools down below.</p>
 <ul>
  <li>pip 22.3.1</li>
  <li>selenium 4.5.0</li>
