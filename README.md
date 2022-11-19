@@ -20,19 +20,22 @@ In this repository, I have uploaded all the exercise and project that I have don
  <li>labelImg 1.8.6</li>
  <li>Visual Studio Code 1.73.1</li>
  <li>labelImg 1.8.6</li>
+ <li>Django 4.1.3<li>
 </ul>
 
-<p>Note: Setup this tool on your terminal ubuntu 20.04</p>
+<p>Note: Setup this tool on your terminal Ubuntu 20.04.5 LTS</p>
 
-1. sudo apt install python3-pip
-2. check out pip version: pip3 --version
-3. check out installing packages: pip list
-4. pip install webdriver-manager
-5. for linux user: sudo pip install selenium
-6. or python3: sudo pip3 install selenium
-7. pip3 install --upgrade requests
-8. pip install labelImg
-
+1.   sudo apt install python3-pip
+2.   check out pip version: pip3 --version
+3.   check out installing packages: pip list
+4.   pip install webdriver-manager
+5.   for linux user: sudo pip install selenium
+6.   or python3: sudo pip3 install selenium
+7.   pip3 install --upgrade requests
+8.   pip install labelImg
+9.   django-admin 
+10.  django-admin --version
+  
 <hr>
 
 ##### Some-link
