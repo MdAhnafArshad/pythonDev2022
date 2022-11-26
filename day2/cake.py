@@ -1,4 +1,4 @@
-#I have only one cake recode solve out becouse there are  same methode technic for  each on cake.
+#I have only one cake recode solve out becouse there are  the same methode technic for  each on cake.
 # solve out  the cake problem
 #question1:
 #Different type of cakes flavour name
