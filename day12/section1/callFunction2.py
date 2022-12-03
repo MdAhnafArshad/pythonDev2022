@@ -4,6 +4,7 @@
 #use function different another way
 #Example 
 
+
 import function
 store = function.myFunction1(10,5)
 print(store)

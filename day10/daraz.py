@@ -15,7 +15,7 @@ product_title_list= []
 title = web_wait(driver, 20).until(EC.presence_of_element_located((By.XPATH, xPath)))
 
 for i in range(1, 40):
-xPath = "//*[@id='root']/div/div[3]/div/div/div[1]/div[2]/div[1]/div/div/div[2]/div[2]/a"
+    xPath = "//*[@id='root']/div/div[3]/div/div/div[1]/div[2]/div[1]/div/div/div[2]/div[2]/a"
     product_title_list.append(title.text)
 
 print(product_title_list)
