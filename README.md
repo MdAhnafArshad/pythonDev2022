@@ -6,12 +6,15 @@
 
 <br>
 
-##### Discription:
+##### Description:
 In this repository, I have uploaded all the exercise and project that I have done from European-IT.
 
 <hr>
 
-##### Installing tools
+##### OverView:
+<hr>
+
+##### Installing tools:
 <p>Installing this tools down below.</p>
 <ul>
  <li>pip 22.3.1</li>
@@ -21,6 +24,9 @@ In this repository, I have uploaded all the exercise and project that I have don
  <li>Visual Studio Code 1.73.1</li>
  <li>labelImg 1.8.6</li>
  <li>Django 4.1.3<li>
+ <li>apache web server</li>
+ <li>xampp </li>
+ <li>OpenCv</li>
 </ul>
 
 <p>Note: Setup this tool on your terminal Ubuntu 20.04.5 LTS</p>
@@ -38,7 +44,7 @@ In this repository, I have uploaded all the exercise and project that I have don
   
 <hr>
 
-##### Some-link
+##### Some-link:
 **Practical XPath for Web Scraping link:**
 https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/?fbclid=IwAR2goVl21Vo724XVwZc0uHJrbe_tLMgc0OMilalwEp8XsLMY5SgVrdN46GE
 
